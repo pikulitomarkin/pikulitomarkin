@@ -1,0 +1,25 @@
+theme: jekyll-theme-cayman
+title: Portfolio - Marcos Padilha
+description: Desenvolvedor Full-Stack apaixonado por tecnologia e inovação
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
+
+optional_front_matter:
+  enabled: true
+
+default_layout:
+  enabled: true
