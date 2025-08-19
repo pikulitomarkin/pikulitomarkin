@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pikulitomarkin&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/pikulitomarkin?label=Seguidores&style=social)](https://github.com/pikulitomarkin)
@@ -15,7 +15,7 @@
 
 Desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho experiência em desenvolvimento full-stack e sempre busco aprender novas tecnologias para resolver problemas complexos de forma elegante.
 
-- 🔭 Atualmente trabalhando em: **Projetos de Automação Industrial**
+- 🔭 Atualmente trabalhando em: **Projeto**
 - 🌱 Aprendendo: **Python e React**
 - 👯 Procurando colaborar em: **Projetos React**
 - 💬 Me pergunte sobre: **IA e Desenvolvimento Web**
@@ -26,54 +26,57 @@ Desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho ex
 ## 💼 Projetos em Destaque
 
 ### 🌟 Corte e Poda
-> **Descrição:** Sistema web para gerenciamento de atividades de corte e poda de vegetação, com controle de usuários e monitoramento em tempo real.
+**Sistema web para gerenciamento de atividades de corte e poda de vegetação**
 
-**🛠️ Tecnologias:** `React` `Rest API` `Firebase` `StyleSheet`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/pikulitomarkin/corte-poda)
+**🔗 [Ver Repositório](https://github.com/pikulitomarkin/corte-poda)**
 
-**✨ Características principais:**
-- 🔐 Sistema de Login Seguro - Dois níveis de acesso (Admin/Operador)
-- ☁️ Sincronização em Tempo Real - Firebase REST API
-- 📊 Dashboard Inteligente - Estatísticas e progresso visual
-- 📅 Controle de Prazos - Alertas automáticos para vencimentos
-- 📄 Importação de Planilhas - Suporte a Excel/CSV
-- 📱 Interface Moderna - Design responsivo e intuitivo
-- 🌐 Multi-dispositivo - Trabalhe em qualquer lugar
+**Características principais:**
+- 🔐 Sistema de Login Seguro (Admin/Operador)
+- ☁️ Sincronização em Tempo Real com Firebase
+- 📊 Dashboard com Estatísticas Visuais
+- 📅 Controle de Prazos e Alertas
+- 📄 Importação de Planilhas Excel/CSV
+- 📱 Interface Responsiva
 
 ---
 
 ### 🎯 Onde a Linha Desligou - Web Debug
-> **Descrição:** Aplicação web para consulta e visualização de torres de transmissão elétrica, permitindo localização por quilometragem e visualização em mapa interativo.
+**Aplicação web para consulta e visualização de torres de transmissão elétrica**
 
-**🛠️ Tecnologias:** `Python` `Flask` `IndeedDB` `Railway`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/pikulitomarkin/onde_a_linha_desligou_web_debug)
+**🔗 [Ver Repositório](https://github.com/pikulitomarkin/onde_a_linha_desligou_web_debug)**
 
-**✨ Características principais:**
-- 🗺️ Consulta de torres por KM a partir de subestações
-- 📍 Visualização dos detalhes da torre (cidade, setor, número)
-- 🌐 Visualização da torre no mapa interativo
-- 📱 Interface responsiva e amigável
-- 💾 Funciona offline (PWA)
-- 📊 Suporte a múltiplas linhas e arquivos GPX/Excel
+**Características principais:**
+- 🗺️ Localização por Quilometragem
+- 📍 Visualização em Mapa Interativo
+- 🔍 Sistema de Busca Avançada
+- 📊 Base de Dados Estruturada
+- 🌐 Deploy Automatizado
 
 ---
 
 ### 📱 Apontamento de Defeitos Mobile
-> **Descrição:** Aplicativo mobile para registro e acompanhamento de defeitos em equipamentos industriais, com funcionalidades offline e sincronização automática.
+**Aplicativo mobile para registro e controle de defeitos em campo**
 
-**🛠️ Tecnologias:** `React Native` `SQLite` `Firebase` `Expo`
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-Repositório-blue?style=for-the-badge&logo=github)](https://github.com/pikulitomarkin)
+**🔗 [Ver Repositório](https://github.com/pikulitomarkin)**
 
-**✨ Características principais:**
-- 📱 Aplicativo nativo para Android/iOS
-- 📸 Captura de fotos e anexos
-- 💾 Funcionamento offline completo
-- 🔄 Sincronização automática quando online
-- 📊 Relatórios e dashboard integrados
-- 🔍 Busca avançada e filtros
+**Características principais:**
+- 📱 Interface Mobile Nativa
+- 📸 Captura de Fotos Integrada
+- 💾 Armazenamento Local (Offline)
+- 🔄 Sincronização de Dados
+- 📍 Geolocalização Automática
 
 ---
 
@@ -111,11 +114,16 @@ Desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho ex
 
 <div align="center">
   
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pikulitomarkin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/pikulitomarkin)
+<a href="https://github.com/pikulitomarkin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pikulitomarkin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikulitomarkin&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pikulitomarkin&layout=compact&theme=tokyonight)](https://github.com/pikulitomarkin)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pikulitomarkin&theme=tokyonight)](https://github.com/pikulitomarkin)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pikulitomarkin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/pikulitomarkin)
 
 </div>
 
@@ -151,18 +159,18 @@ Desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho ex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-r-padilha-26a224174/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpadilha932@gmail.com)
-
-
-### 💡 "O código limpo sempre parece ter sido escrito por alguém que se importa."
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pikulitomarkin)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
+### 💡 *"O código limpo sempre parece ter sido escrito por alguém que se importa."*
+
 ⭐ **Se gostou do meu trabalho, deixe uma estrela nos repositórios!** ⭐
 
-![Snake animation](https://github.com/pikulitomarkin/pikulitomarkin/blob/output/github-contribution-grid-snake.svg)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pikulitomarkin.pikulitomarkin)
 
 </div>
