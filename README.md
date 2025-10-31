@@ -113,10 +113,11 @@ Desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho ex
 ## 🏆 Conquistas & Aprendizado
 
 ```
-🎓 Desenvolvimento Web Full-Stack    📅 2024
-🐍 Python & Automação              📅 2023
-⚡ React.js & Ecosystem             📅 2024
-🔥 Firebase & Cloud Solutions       📅 2024
+🎓 Ciencias da Computação                📅 2023
+🐍 Python & Automação                    📅 2024
+⚡ React.js & Ecosystem                  📅 2025
+🔥 Firebase & Cloud Solutions            📅 2025
+🎓 Pós Graduação em Analise de Sistemas  📅 2025
 ```
 
 ---
@@ -129,11 +130,11 @@ Desenvolvedor apaixonado por criar soluções inovadoras e impactantes. Tenho ex
 
 ## 🎯 Metas 2025
 
-- [ ] 🌟 Contribuir para 5+ projetos Open Source
+- [x] 🌟 Contribuir para projetos Open Source
 - [ ] 📚 Dominar TypeScript & Next.js
-- [ ] 🤖 Desenvolver projeto com IA/ML
+- [x] 🤖 Desenvolver projeto com IA/ML
 - [ ] ☁️ Certificação em Cloud Computing
-- [ ] 👥 Mentorear desenvolvedores iniciantes
+- [x] 👥 Criar ferramentas escalaveis
 
 ---
 
