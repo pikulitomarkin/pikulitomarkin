@@ -11,6 +11,7 @@
 - **TypeScript** - 0.6+ anos de experiência
 - **Java** - 0.6+ anos de experiência
 - **SQL** - 0.6+ anos de experiência
+- **C#** - 0.6+ anos de experiência
 
 ### Básico/Estudando
 - **Go** - Estudando atualmente
@@ -32,6 +33,7 @@
 - **Django** ⭐⭐⭐
 - **Flask** ⭐⭐⭐
 - **FastAPI** ⭐⭐
+- **ASP.NET Core** ⭐⭐
 
 ### Mobile
 - **React Native** ⭐⭐⭐
