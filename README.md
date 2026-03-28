@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+S%C3%AAnior;Founder+%40+Vintage+DevStack;IA+%2F+SaaS+%2F+Automa%C3%A7%C3%A3o+em+Produ%C3%A7%C3%A3o;25+projetos+%E2%80%94+5%2F5+%E2%AD%90+%E2%80%94+Top+9+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+S%C3%AAnior;Founder+%40+Vintage+DevStack;IA+%2F+SaaS+%2F+Automa%C3%A7%C3%A3o+em+Produ%C3%A7%C3%A3o;25++projetos+%E2%80%94+5%2F5+%E2%AD%90+%E2%80%94+Top+10+Brasil)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pikulitomarkin&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/pikulitomarkin?label=Seguidores&style=social)](https://github.com/pikulitomarkin)
