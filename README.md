@@ -18,7 +18,7 @@ Sou **Founder e Desenvolvedor Full Stack Sênior** da [Vintage DevStack](https:/
 - 🏗️ **Especialidade:** Arquitetura de SaaS multi-tenant, pipelines de dados, IA aplicada e automação de workflows
 - 🤖 **Orquestro times de IA** (Claude, GPT-4o, Copilot) como stack de desenvolvimento acelerado
 - 🔧 Atuo como **arquiteto técnico, QA e DevOps** nos projetos
-- 🏆 **Nível HERO no Workana** — ⭐ 5/5 • 22 projetos entregues • Top 9 Brasil em TI • Recontratado pela maioria dos clientes
+- 🏆 **Nível HERO no Workana** — ⭐ 5/5 • 25+ projetos entregues • Top 10 Brasil em TI • Recontratado pela maioria dos clientes
 - ⚡ *"Entrego software que funciona em produção — não só no localhost"*
 
 ---
