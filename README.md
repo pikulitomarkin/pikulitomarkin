@@ -13,13 +13,12 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Founder e Desenvolvedor Full Stack Sênior** da [Vintage DevStack](https://vintagedevstack.com.br), com mais de **4 anos entregando sistemas corporativos de alta complexidade** para clientes como **Eletrobras, Voxx Engenharia, clínicas médicas e escritórios de advocacia** — do levantamento de requisitos ao deploy em produção.
-
-- 🏗️ **Especialidade:** Arquitetura de SaaS multi-tenant, pipelines de dados, IA aplicada e automação de workflows
-- 🤖 **Orquestro times de IA** (Claude, GPT-4o, Copilot) como stack de desenvolvimento acelerado
-- 🔧 Atuo como **arquiteto técnico, QA e DevOps** nos projetos
-- 🏆 **Nível HERO no Workana** — ⭐ 5/5 • 25+ projetos entregues • Top 10 Brasil em TI • Recontratado pela maioria dos clientes
-- ⚡ *"Entrego software que funciona em produção — não só no localhost"*
+Sou desenvolvedor full-stack e fundador da Vintage DevStack. Comecei no freelance cedo, sem estrutura pronta, construindo tudo do zero — e foi exatamente isso que me ensinou a pensar antes de codar. Hoje estou no top 11 em TI no Brasil na Workana, com 33 projetos entregues, avaliação 5.0 e clientes que voltam. Não porque sou o mais rápido, mas porque entrego o que prometo.
+Minha stack vai de C++ a Flutter, de NestJS a n8n — mas o que realmente me define não é a tecnologia, é a forma como encaro um problema. Antes de escrever qualquer linha, eu quero entender o negócio, mapear os riscos e garantir que o que vou construir vai funcionar em produção, não só na demo. Já entreguei sistemas de análise de risco financeiro, SaaS para gestão rural, chatbots com IA, ERPs multi-tenant e plataformas de cibersegurança — cada um com esse mesmo cuidado.
+Uso inteligências artificiais como extensão da minha capacidade técnica. Orquestro ferramentas, modelos e processos com a mesma naturalidade que monto uma arquitetura de sistema — mas a decisão final sempre fica comigo.
+Sou direto, sem enrolação, e não tenho paciência pra processo que não gera resultado. Mas tenho muita paciência pra quem está construindo algo de verdade — porque sei como é estar no começo.
+Fora do trabalho, sou o mesmo cara que projeta um ERP de manhã e desenvolve uma série de anime horror com IA à noite. Criatividade não tem horário.
+Se você precisa de alguém que entre no projeto, entenda o problema de verdade e entregue — pode falar comigo.
 
 ---
 
